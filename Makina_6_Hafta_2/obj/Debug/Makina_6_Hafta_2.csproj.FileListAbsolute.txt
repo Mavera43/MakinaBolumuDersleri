@@ -1,0 +1,6 @@
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\Makina_6_Hafta_2\bin\Debug\Makina_6_Hafta_2.exe.config
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\Makina_6_Hafta_2\bin\Debug\Makina_6_Hafta_2.exe
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\Makina_6_Hafta_2\bin\Debug\Makina_6_Hafta_2.pdb
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\Makina_6_Hafta_2\obj\Debug\Makina_6_Hafta_2.csproj.CoreCompileInputs.cache
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\Makina_6_Hafta_2\obj\Debug\Makina_6_Hafta_2.exe
+C:\Users\Senol\source\repos\MakinaBolumuDersleri\Makina_6_Hafta_2\obj\Debug\Makina_6_Hafta_2.pdb

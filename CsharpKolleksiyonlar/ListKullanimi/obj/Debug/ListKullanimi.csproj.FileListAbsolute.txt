@@ -1,0 +1,6 @@
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\ListKullanimi\bin\Debug\ListKullanimi.exe.config
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\ListKullanimi\bin\Debug\ListKullanimi.exe
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\ListKullanimi\bin\Debug\ListKullanimi.pdb
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\ListKullanimi\obj\Debug\ListKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\ListKullanimi\obj\Debug\ListKullanimi.exe
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\ListKullanimi\obj\Debug\ListKullanimi.pdb

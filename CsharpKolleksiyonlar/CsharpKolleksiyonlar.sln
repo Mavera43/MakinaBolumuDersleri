@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraylistKullanimi", "CsharpKolleksiyonlar\ArraylistKullanimi.csproj", "{867983C2-C440-47B2-B776-0728E2EC22E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListKullanimi", "ListKullanimi\ListKullanimi.csproj", "{AB92ACCF-F031-4375-983A-AA60E0AA9502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867983C2-C440-47B2-B776-0728E2EC22E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867983C2-C440-47B2-B776-0728E2EC22E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867983C2-C440-47B2-B776-0728E2EC22E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867983C2-C440-47B2-B776-0728E2EC22E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB92ACCF-F031-4375-983A-AA60E0AA9502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB92ACCF-F031-4375-983A-AA60E0AA9502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB92ACCF-F031-4375-983A-AA60E0AA9502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB92ACCF-F031-4375-983A-AA60E0AA9502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3445432B-77D0-403A-AE6D-CFC81E9869CC}
+	EndGlobalSection
+EndGlobal

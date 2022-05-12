@@ -1,0 +1,7 @@
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\CsharpKolleksiyonlar\bin\Debug\CsharpKolleksiyonlar.exe.config
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\CsharpKolleksiyonlar\bin\Debug\CsharpKolleksiyonlar.exe
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\CsharpKolleksiyonlar\bin\Debug\CsharpKolleksiyonlar.pdb
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\CsharpKolleksiyonlar\obj\Debug\CsharpKolleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\CsharpKolleksiyonlar\obj\Debug\CsharpKolleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\CsharpKolleksiyonlar\obj\Debug\CsharpKolleksiyonlar.exe
+C:\Users\Senol\source\repos\CsharpKolleksiyonlar\CsharpKolleksiyonlar\obj\Debug\CsharpKolleksiyonlar.pdb
